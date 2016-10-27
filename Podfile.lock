@@ -1,0 +1,21 @@
+PODS:
+  - Alamofire (4.0.1)
+  - Cosmos (7.0.0)
+  - Gloss (1.0.0)
+  - Kingfisher (3.1.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - Cosmos (~> 7.0)
+  - Gloss
+  - Kingfisher
+
+SPEC CHECKSUMS:
+  Alamofire: 7682d43245de14874acd142ec137b144aa1dd335
+  Cosmos: 2c8299147138758f6ebbb247cf1aeed77998bdf9
+  Gloss: 014789e9e69ca18f127eacca999f4c9b0bff6d58
+  Kingfisher: 12b755ae697cc9f0fd3e550db8417fa1233e09ab
+
+PODFILE CHECKSUM: 39af97e99583b6629ddc7de1454639d038c69e2e
+
+COCOAPODS: 1.1.0.rc.2
